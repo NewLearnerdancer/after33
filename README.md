@@ -29,7 +29,8 @@ after33 is a vibrant collection of projects inspired by Instagram’s design and
 
 1. **Clone the repository:**
    ```bash
-https://github.com/NewLearnerdancer/after33.git
+   git clone https://github.com/NewLearnerdancer/after33.git
+   cd after33
    ```
 2. **Install dependencies:**
    ```bash
@@ -48,7 +49,7 @@ https://github.com/NewLearnerdancer/after33.git
 - Example:
   ```javascript
   import { InstaGallery } from 'after33';
-  <InstaGallery user="yourusername" />
+  <InstaGallery user="NewLearnerdancer" />
   ```
 - Check the `/examples` folder for ready-to-run demos.
 - ![Demo Screenshot](./assets/demo.png)
@@ -86,9 +87,8 @@ This project is licensed under the MIT License.
 
 ## Contact Information
 
-- **GitHub:** [yourusername](https://github.com/yourusername)
-- **Email:** your.hardikjadhav307@gmail.com
-
+- **GitHub:** [after33 Repository](https://github.com/NewLearnerdancer/after33.git)
+- **Email:** mh.10greenbeauty@gmail.com
 
 ---
 
